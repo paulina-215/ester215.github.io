@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'poppins', sans-serif;
+}
+/*Navbar Style*/
+.navbar .bg-dark{
+    background-color: #787d7a !important;
+}
+.navbar .navbar-brand{
+    font-weight: 700;
+}
+.navbar .nav.link{
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+}
+/* Hero style*/
+.hero .card-title{
+    margin-top: 120px;
+}
+/*MenuStyle*/
+.menu{
+    background-color: #98cce4;
+}
+.menu .section-title{
+    font-weight: 700;
+    color: #131313;
+}
+.menu .section-paragraf{
+    font-weight: 700;
+    color: #131313;
+}
+.menu .card{
+    background-color: #8d98a3;
+    color: #fff;
+}
+
+.navbar .nav-link{
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+}
+.menu .card img{
+    border: 2px solid #fff;
+}
+
+.menu .card .card-title{
+    margin-top: 20px;
+    font-weight: 500;
+}
+.menu .card .btn {
+    font-weight: 700;
+}
+/*Testimoni Style*/
+#testimoni{
+    background-image: url('aset/pexels-dimitri-dim-1802183.jpg');
+    background-size: cover;
+    height: 450px;
+}
+.testimoni img{
+    margin-top: 50px;
+    width: 130px;
+}
+.testimoni .blockqute{
+    font-weight: 500;
+}
+.testimoni.blockqute-footer{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/*Footer Style*/
+.footer{
+    background-color: #3b3b3b;
+}
+.warna{
+    background-color: #8f8f8f;
+    color: #f6f6f6;
+    padding: 10px;
+    margin: 10px;
+}
